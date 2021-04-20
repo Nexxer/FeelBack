@@ -1,0 +1,36 @@
+{
+  "name": "praktikum",
+  "version": "1.0.9",
+  "description": "Yandex.Practice Project work",
+  "main": "index.js",
+  "scripts": {
+    "build": "rm -rf dist && webpack",
+    "dev": "webpack-dev-server --open --watch"
+  },
+  "keywords": [],
+  "author": "I.M.Yakunin",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.11.1",
+    "@babel/plugin-proposal-class-properties": "^7.10.4",
+    "@babel/preset-env": "^7.11.0",
+    "autoprefixer": "^9.8.6",
+    "babel-loader": "^8.1.0",
+    "css-loader": "^4.2.0",
+    "cssnano": "^4.1.10",
+    "file-loader": "^6.0.0",
+    "html-loader": "^1.1.0",
+    "html-webpack-plugin": "^4.3.0",
+    "mini-css-extract-plugin": "^0.9.0",
+    "postcss-loader": "^3.0.0",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0"
+  },
+  "dependencies": {
+    "chart.js": "^3.1.0",
+    "chartjs-adapter-moment": "^1.0.0",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1"
+  }
+}
