@@ -1,7 +1,7 @@
 <h1 align="center">Тестовое задание FeeLBack</h1>
 
 <div align="center">
-<a href="https://nexxer.github.io/mesto/">Ссылка на опубликованный проект в gh-pages</a>
+<a href="https://nexxer.github.io/FeelBack/">Ссылка на опубликованный проект в gh-pages</a>
 </div>
 
 ---
